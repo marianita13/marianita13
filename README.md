@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marianita13" alt="marianita13" /></a> </p>
 
-- 🌱 I’m currently learning **Databases, Java, videos, etc**
+- 🌱 I’m currently learning **Frontend, Java, videos, etc**
 
 - 📫 How to reach me **marianitacero.1913@gmail.com**
 
