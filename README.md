@@ -4,7 +4,7 @@
   <img src="https://github.com/marianita13/marianita13/assets/124885480/a48760d4-11ca-4107-82d9-a9592fb579ad" height="400" >
 </div>
 
-<h3 >A passionate backend junior developer, with kwnolegde in frontend</h3>
+<h3 >A passionate backend junior developer, with kwnoledge in frontend</h3>
 
 - 🌱 I’m currently learning **Frontend, Java, videos, etc**
 - 🌎 I'm from **Colombia**
